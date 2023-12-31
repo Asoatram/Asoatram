@@ -10,6 +10,6 @@ Hi, I'm Muhamad Daffa Azfa Rabbani
 - 🔭 I’m currently majoring on Information Technology in Gadjah Mada University
 - 🌱 I’m currently learning any technology related fields whether it's developing application, web, data science, or anything else.
 - 👯 I’m looking to collaborate on anything.
-- 🤔 I’m looking for help with learning technology.
+- 🤔 I’m looking for help with learning any technology related stuff.
 - 📫 How to reach me: muhamaddaffaazfarabbani@mail.ugm.ac.id
 
